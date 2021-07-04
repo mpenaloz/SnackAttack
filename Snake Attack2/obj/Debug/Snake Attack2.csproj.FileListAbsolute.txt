@@ -1,0 +1,7 @@
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\bin\Debug\Snake Attack2.exe.config
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\bin\Debug\Snake Attack2.exe
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\bin\Debug\Snake Attack2.pdb
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\obj\Debug\Snake Attack2.csproj.CoreCompileInputs.cache
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\obj\Debug\Snake Attack2.exe
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\obj\Debug\Snake Attack2.pdb
+C:\Users\mig22\source\repos\Snake Attack2\Snake Attack2\obj\Debug\Snake Attack2.csproj.AssemblyReference.cache
